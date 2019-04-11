@@ -8,6 +8,6 @@ HOW IT WORKS :
 
 3.Takes the team froms teams.csv and adds up all the values for the playes
 
-4. outputs the result into result.csv
+4.outputs the result into result.csv
 
 MADE BY : RAGHAV SARAF
